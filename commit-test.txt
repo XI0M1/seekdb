@@ -1,0 +1,1 @@
+This file verifies the local Git commit workflow.
