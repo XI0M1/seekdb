@@ -45,4 +45,5 @@
 
 参与seekdb开发的完整流程。
 
-1. [提交代码和Pull Request](contributing.md) - 如何贡献代码到seekdb项目
+1. [两人协作开发 Git 常用命令](git-collaboration.md) - 分支、提交、拉取、推送、合并与冲突处理
+2. [提交代码和Pull Request](contributing.md) - 如何贡献代码到seekdb项目
